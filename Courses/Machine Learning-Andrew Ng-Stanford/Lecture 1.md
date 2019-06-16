@@ -53,3 +53,16 @@ Organize computing clusters
 Social network analysis
 (discover) Market segmentation [Group customers]
 Astronomical data analysis
+
+Cocktail party problem algorithm
+[W,s,v] = svd((repmat(sum(x.*x,1),size(x,1),1).*x)*x');
+Speaker #1   Microphone #1   Output #1
+Speaker #2   Microphone #2   Output #2
+
+
+Of the following examples, which would you address using an Unsupervised learning algorithm?
+
+Given email labeled as spam/not spam, learn a spam filter.   -> Supervised Learning algorithm
+Given a set of news articles found on the web, group them into set of articles about the same story.   -> Unsupervised Learning algorithm
+Given a database of customer data, automatically discover market segments and group customers into different market segments.  -> Unsupervised Learning algorithm
+Given a dataset of patients diagnosed as either having diabetes or not, learn to classify new patients as having diabetes or not.  -> Supervised Learning algorithm
