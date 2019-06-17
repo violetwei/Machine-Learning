@@ -1,0 +1,23 @@
+Lecture 2.1 Linear regression with one variable -- Model representation
+
+Using a dataset of Housing Prices (Portland, OR)
+
+Supervised Learning: Given the "right answer" for each example in the data.
+Regression Problem: Predict real-valued output
+Classification Problem: Discrete-valued output
+
+Training set of housing prices (Portland,OR)
+
+Size in feet^2 (x)   |    Prices ($) in 1000's (y)
+        2104                     460
+        1416                     232
+
+Notation:
+m = Number of training examples
+x's = "input" variable / features
+y's = "output" variable / "target" variable
+(x,y) -> one training example
+(x^(i),y^(i)) -> ith training example
+
+x^(1) = 2104     y^(1) = 460
+x^(2) = 1416     y^(2) = 232
