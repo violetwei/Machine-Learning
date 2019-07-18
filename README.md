@@ -15,6 +15,8 @@ Stanford [cs131](http://cs131.stanford.edu/) Computer Vision: Foundations and Ap
 
 Stanford [cs145](https://cs145-fa18.github.io) Data Management and Data Systems - SQL
 
-Stanford [cs221](http://web.stanford.edu/class/cs221/) Artificial Intelligence: Principles and Techniques
+Stanford [cs221](http://web.stanford.edu/class/cs221/) Artificial Intelligence: Principles and Techniques [Spring 2019](http://web.stanford.edu/class/cs221/spring2019/)
 
 Stanford [cs102](http://web.stanford.edu/class/cs102/) Big data
+
+UC Berkeley [cs188](https://inst.eecs.berkeley.edu/~cs188/su19/) Intro to AI
