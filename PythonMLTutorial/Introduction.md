@@ -15,7 +15,7 @@ conda create -n tensor python=3.6
 
 # tensor is the name of the new virtual environment created
 
-activate tensor
+conda activate tensor
 ```
 
 Then install [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/)
